@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 8 |
+| 16 | 8 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (6)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (7)
+- [greedy](#greedy) (8)
 - [implementation](#implementation) (5)
 - [math](#math) (5)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (3)
 
 ---
@@ -52,6 +52,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/50_A%20-%20Domino%20piling/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/231_A%20-%20Team/solution.java) |
+| 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/1000/1876_A%20-%20Helmets%20in%20Night%20Light/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1903_A%20-%20Halloumi%20Boxes/solution.java) |
 | 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/2209_A%20-%20Flip%20Flops/solution.java) |
 | 2209B | [Array](https://codeforces.com/contest/2209/problem/B) | 900 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/900/2209_B%20-%20Array/solution.java) |
@@ -82,6 +83,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/1000/1876_A%20-%20Helmets%20in%20Night%20Light/solution.java) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1903_A%20-%20Halloumi%20Boxes/solution.java) |
 
 ### strings
