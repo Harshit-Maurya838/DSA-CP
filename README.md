@@ -6,36 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 1 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [math](#math) (1)
 - [sortings](#sortings) (1)
 
 ---
-
-### brute force
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/4_A%20-%20Watermelon/solution.java) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/1000/1876_A%20-%20Helmets%20in%20Night%20Light/solution.java) |
-
-### math
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/4_A%20-%20Watermelon/solution.java) |
 
 ### sortings
 
