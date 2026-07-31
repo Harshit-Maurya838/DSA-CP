@@ -6,141 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 11 |
+| 1 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (1)
-- [brute force](#brute-force) (7)
-- [constructive algorithms](#constructive-algorithms) (3)
-- [dp](#dp) (1)
-- [games](#games) (1)
-- [greedy](#greedy) (12)
-- [implementation](#implementation) (9)
-- [math](#math) (13)
-- [number theory](#number-theory) (2)
-- [sortings](#sortings) (4)
-- [strings](#strings) (8)
+- [math](#math) (1)
 
 ---
-
-### *special
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/158_A%20-%20Next%20Round/solution.java) |
-
-### brute force
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/4_A%20-%20Watermelon/solution.java) |
-| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/231_A%20-%20Team/solution.java) |
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/236_A%20-%20Boy%20or%20Girl/solution.java) |
-| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1881_A%20-%20Don't%20Try%20to%20Count/solution.java) |
-| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1903_A%20-%20Halloumi%20Boxes/solution.java) |
-| 2067A | [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/2067_A%20-%20Adjacent%20Digit%20Sums/solution.java) |
-| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/2229_A%20-%20Slimes%20on%20a%20Line/solution.java) |
-
-### constructive algorithms
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1890_A%20-%20Doremy's%20Paint%203/solution.java) |
-| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1900_A%20-%20Cover%20in%20Water/solution.java) |
-| 2067A | [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/2067_A%20-%20Adjacent%20Digit%20Sums/solution.java) |
-
-### dp
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/1000/1883_C%20-%20Raspberries/solution.java) |
-
-### games
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1899_A%20-%20Game%20with%20Integers/solution.java) |
-
-### greedy
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/50_A%20-%20Domino%20piling/solution.java) |
-| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/231_A%20-%20Team/solution.java) |
-| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/339_A%20-%20Helpful%20Maths/solution.cpp) |
-| 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/1000/1876_A%20-%20Helmets%20in%20Night%20Light/solution.java) |
-| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1900_A%20-%20Cover%20in%20Water/solution.java) |
-| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1901_A%20-%20Line%20Trip/solution.java) |
-| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1903_A%20-%20Halloumi%20Boxes/solution.java) |
-| 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/2209_A%20-%20Flip%20Flops/solution.java) |
-| 2209B | [Array](https://codeforces.com/contest/2209/problem/B) | 900 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/900/2209_B%20-%20Array/solution.java) |
-| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/2229_A%20-%20Slimes%20on%20a%20Line/solution.java) |
-| 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/2229_B%20-%20Absolute%20Cinema/solution.java) |
-| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/2241_A%20-%20Divide%20and%20Conquer/solution.cpp) |
-
-### implementation
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/112_A%20-%20Petya%20and%20Strings/solution.java) |
-| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/158_A%20-%20Next%20Round/solution.java) |
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/236_A%20-%20Boy%20or%20Girl/solution.java) |
-| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/263_A%20-%20Beautiful%20Matrix/solution.java) |
-| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/281_A%20-%20Word%20Capitalization/solution.cpp) |
-| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/282_A%20-%20Bit%2B%2B/solution.java) |
-| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/339_A%20-%20Helpful%20Maths/solution.cpp) |
-| 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1873_C%20-%20Target%20Practice/solution.cpp) |
-| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1900_A%20-%20Cover%20in%20Water/solution.java) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/4_A%20-%20Watermelon/solution.java) |
-| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/50_A%20-%20Domino%20piling/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/617_A%20-%20Elephant/solution.java) |
-| 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1866_A%20-%20Ambitious%20Kid/solution.java) |
-| 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1873_C%20-%20Target%20Practice/solution.cpp) |
-| 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1877_A%20-%20Goals%20of%20Victory/solution.java) |
-| 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/1000/1883_C%20-%20Raspberries/solution.java) |
-| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1899_A%20-%20Game%20with%20Integers/solution.java) |
-| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1901_A%20-%20Line%20Trip/solution.java) |
-| 2067A | [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/2067_A%20-%20Adjacent%20Digit%20Sums/solution.java) |
-| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/2229_A%20-%20Slimes%20on%20a%20Line/solution.java) |
-| 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/2229_B%20-%20Absolute%20Cinema/solution.java) |
-| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/2241_A%20-%20Divide%20and%20Conquer/solution.cpp) |
-
-### number theory
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1899_A%20-%20Game%20with%20Integers/solution.java) |
-| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/2241_A%20-%20Divide%20and%20Conquer/solution.cpp) |
-
-### sortings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/339_A%20-%20Helpful%20Maths/solution.cpp) |
-| 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/1000/1876_A%20-%20Helmets%20in%20Night%20Light/solution.java) |
-| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1896_A%20-%20Jagged%20Swaps/solution.java) |
-| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1903_A%20-%20Halloumi%20Boxes/solution.java) |
-
-### strings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/71_A%20-%20Way%20Too%20Long%20Words/solution.java) |
-| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/112_A%20-%20Petya%20and%20Strings/solution.java) |
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/236_A%20-%20Boy%20or%20Girl/solution.java) |
-| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/281_A%20-%20Word%20Capitalization/solution.cpp) |
-| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/339_A%20-%20Helpful%20Maths/solution.cpp) |
-| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1881_A%20-%20Don't%20Try%20to%20Count/solution.java) |
-| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/800/1900_A%20-%20Cover%20in%20Water/solution.java) |
-| 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [Java 21](https://github.com/Harshit-Maurya838/DSA-CP/blob/HEAD/1000/1913_B%20-%20Swap%20and%20Delete/solution.java) |
 
 ---
 
